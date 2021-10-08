@@ -10,10 +10,9 @@ thanks to the youtuber "The Net Ninja" ^^
 
 # 15 Ninja ID Project
 
-### the goal : create an avatar characteristics
-
-preview :
-<img src="caps/chap15.jpg" width="400">
+### the goal : create avatar characteristics
+### preview : 
+<img src="https://github.com/Geoffrey-Carpentier/flutter_2nd_app/blob/main/caps/chap15.JPG" height="600">
 
 1) create a new flutter project with vs code
 2) delete the "test" folder
