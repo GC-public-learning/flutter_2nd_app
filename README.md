@@ -10,7 +10,7 @@ thanks to the youtuber "The Net Ninja" ^^
 
 # 15 Ninja ID Project
 
-### the goal : create an avatar characteristics
+### the goal : create avatar characteristics
 
 preview :
 <img src="https://github.com/Geoffrey-Carpentier/flutter_2nd_app/blob/main/caps/chap15.JPG" height="600">
