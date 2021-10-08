@@ -13,7 +13,7 @@ thanks to the youtuber "The Net Ninja" ^^
 ### the goal : create an avatar characteristics
 
 preview :
-<img src="https://github.com/Geoffrey-Carpentier/flutter_2nd_app/blob/main/caps/chap15.JPG" width="400">
+<img src="https://github.com/Geoffrey-Carpentier/flutter_2nd_app/blob/main/caps/chap15.JPG" height="800">
 
 1) create a new flutter project with vs code
 2) delete the "test" folder
